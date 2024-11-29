@@ -1,8 +1,1 @@
-# Claude Test Repository
-
-Dit is een test repository om de integratie tussen MCP en Claude te testen.
-
-## Over dit project
-- Test omgeving voor MCP (Microsoft Cloud Platform) integratie
-- Experimenteren met Claude's mogelijkheden
-- Evalueren van de samenwerking tussen deze tools
+IyBDbGF1ZGUgVGVzdCBSZXBvc2l0b3J5CgpEaXQgaXMgZWVuIHRlc3QgcmVwb3NpdG9yeSBvbSBkZSBpbnRlZ3JhdGllIHR1c3NlbiBNQ1AgZW4gQ2xhdWRlIHRlIHRlc3Rlbi4KCiMjIE92ZXIgZGl0IHByb2plY3QKLSBUZXN0IG9tZ2V2aW5nIHZvb3IgTUNQIChNaWNyb3NvZnQgQ2xvdWQgUGxhdGZvcm0pIGludGVncmF0aWUKLSBFeHBlcmltZW50ZXJlbiBtZXQgQ2xhdWRlJ3MgbW9nZWxpamtoZWRlbgotIEV2YWx1ZXJlbiB2YW4gZGUgc2FtZW53ZXJraW5nIHR1c3NlbiBkZXplIHRvb2xz
