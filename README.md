@@ -1,1 +1,13 @@
-IyBNQ1AgQ2xhdWRlIFRlc3QgUmVwb3NpdG9yeQoKRGl0IGlzIGVlbiB0ZXN0IHJlcG9zaXRvcnkgb20gdGUgZXhwZXJpbWVudGVyZW4gbWV0IGRlIGludGVncmF0aWUgdHVzc2VuIE1DUCBlbiBDbGF1ZGUuCgojIyBEb2VsCi0gVGVzdGVuIHZhbiBkZSBpbnRlZ3JhdGllIG1vZ2VsaWpraGVkZW4gdHVzc2VuIE1DUCBlbiBDbGF1ZGUKLSBCZXN0dWRlcmVuIHZhbiBkZSB3ZXJraW5nIHZhbiBDbGF1ZGUgaW4gY29tYmluYXRpZSBtZXQgTUNQCi0gVmVyemFtZWxlbiB2YW4gaW56aWNodGVuIGVuIGJlc3QgcHJhY3RpY2VzCgojIyBPdmVyIGRpdCBwcm9qZWN0Ci0gT3BnZXpldCBhbHMgdGVzdG9tZ2V2aW5nIHZvb3IgTUNQIChNaWNyb3NvZnQgQ2xvdWQgUGxhdGZvcm0pIGludGVncmF0aWUKLSBHZWJydWlrdCBvbSB0ZSBleHBlcmltZW50ZXJlbiBtZXQgQ2xhdWRlJ3MgbW9nZWxpamtoZWRlbgotIEJlZG9lbGQgb20gZGUgc2FtZW53ZXJraW5nIHR1c3NlbiBkZXplIHRvb2xzIHRlIGV2YWx1ZXJlbg==
+# MCP Claude Test Repository
+
+Dit is een test repository om te experimenteren met de integratie tussen MCP en Claude.
+
+## Doel
+- Testen van de integratie mogelijkheden tussen MCP en Claude
+- Bestuderen van de werking van Claude in combinatie met MCP
+- Verzamelen van inzichten en best practices
+
+## Over dit project
+- Opgezet als testomgeving voor MCP (Microsoft Cloud Platform) integratie
+- Gebruikt om te experimenteren met Claude's mogelijkheden
+- Bedoeld om de samenwerking tussen deze tools te evalueren
